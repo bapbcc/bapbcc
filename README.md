@@ -1,6 +1,6 @@
 # E aí! :v::grin::v:
 
-Meu nome é Gabriel, sou um programador e estou nessa jornada desde que entrei no curso de Ciências da Computação na UFBA, em 2018. Comecei com C++ e nunca tinha estudado por fora, mas com minha nova experiência adquirida na Empresa Júnior, após a pandemia, resolvi começar a caminhar com minhas próprias pernas e focar meus estudos por fora em Python. É isso, bem vind@s ao meu GitHub! :call_me_hand:
+Meu nome é Gabriel e estou nessa jornada de programação desde que entrei no curso de Ciências da Computação na UFBA, em 2018. Comecei aprendendo C++ e nunca tinha estudado por fora, mas com a confiança e experiência adquirida na Empresa Júnior, após a pandemia, resolvi começar a caminhar com minhas próprias pernas e focar meus estudos por fora em Python. É isso, bem vind@s ao meu GitHub! :call_me_hand:
 
 ## Onde me encontrar:
 
